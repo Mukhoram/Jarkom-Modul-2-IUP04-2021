@@ -82,6 +82,15 @@ no diffculties <br>
 
 ### **Number 7**
 
+furthermore to facilitate communication between Luffy and his comrades, a subdomain was created through Water7 with the name <br>
+`general.mecha.franky.iup06.com` with the alias `www.general.mecha.franky.iup06.com` which point to Skypie <br>
+
+water 7 edit `etc/bind/sunnygo/mecha.franky.iup06.com`
+![1](https://user-images.githubusercontent.com/74299958/139528596-1caa4b62-969a-45d6-8b16-b5080cb5b850.jpg)
+
+
+
+
 
 
 
