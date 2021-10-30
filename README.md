@@ -6,6 +6,8 @@ EniesLobby will be used as DNS Master, Water7 will be used as DNS Slave, and Sky
 
 First step is to make the topology, then in Foosha we run a command `iptables -t nat -A POSTROUTING -o eth0 -j MASQUERADE -s 192.211.0.0/16`. then we run `echo nameserver 192.168.122.1 > /etc/resolv.conf` in the nodes. <br>
 
+![1](https://user-images.githubusercontent.com/74299958/139528596-1caa4b62-969a-45d6-8b16-b5080cb5b850.jpg)
+
 no difficulties <br>
 
 
@@ -85,8 +87,8 @@ no diffculties <br>
 furthermore to facilitate communication between Luffy and his comrades, a subdomain was created through Water7 with the name <br>
 `general.mecha.franky.iup06.com` with the alias `www.general.mecha.franky.iup06.com` which point to Skypie <br>
 
-water 7 edit `etc/bind/sunnygo/mecha.franky.iup06.com`
-![1](https://user-images.githubusercontent.com/74299958/139528596-1caa4b62-969a-45d6-8b16-b5080cb5b850.jpg)
+water 7 edit `etc/bind/sunnygo/mecha.franky.iup06.com` <br>
+
 
 
 
