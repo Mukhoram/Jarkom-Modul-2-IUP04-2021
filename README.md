@@ -88,8 +88,11 @@ furthermore to facilitate communication between Luffy and his comrades, a subdom
 `general.mecha.franky.iup06.com` with the alias `www.general.mecha.franky.iup06.com` which point to Skypie <br>
 
 water 7 edit `etc/bind/sunnygo/mecha.franky.iup06.com` <br>
+
+### **Screenshot**
 ![messageImage_1635589268789](https://user-images.githubusercontent.com/74299958/139529298-0495492f-084c-4a76-81b9-28250266220f.jpg)
 ![messageImage_1635589198499](https://user-images.githubusercontent.com/74299958/139529300-61e82e44-f08c-4752-80c0-890f2af12e23.jpg)
+this is our configuration until now
 
 
 
